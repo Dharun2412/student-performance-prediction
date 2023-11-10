@@ -1,1 +1,1 @@
-# student-performance-prediction
+# Hand gesture recognition using CNN
